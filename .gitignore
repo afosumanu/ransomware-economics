@@ -219,4 +219,7 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
+# project-specific
 data/raw/
+data/*.db
+.streamlit/secrets.toml
