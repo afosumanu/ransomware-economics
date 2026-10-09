@@ -1,0 +1,642 @@
+month,sector,victims
+2023-01,Agriculture and Food Production,6
+2023-01,Education,16
+2023-01,Energy & Utilities,5
+2023-01,Financial Services,8
+2023-01,Government & Defense,9
+2023-01,Healthcare,8
+2023-01,Hospitality,1
+2023-01,Manufacturing,26
+2023-01,Other,3
+2023-01,Professional Services,23
+2023-01,Retail & E-Commerce,15
+2023-01,Technology,11
+2023-01,Transportation,7
+2023-01,Unknown,7
+2023-02,Agriculture and Food Production,17
+2023-02,Education,13
+2023-02,Energy & Utilities,9
+2023-02,Financial Services,16
+2023-02,Government & Defense,10
+2023-02,Healthcare,14
+2023-02,Hospitality,3
+2023-02,Manufacturing,38
+2023-02,Other,1
+2023-02,Professional Services,31
+2023-02,Retail & E-Commerce,25
+2023-02,Technology,18
+2023-02,Transportation,18
+2023-02,Unknown,8
+2023-03,Agriculture and Food Production,17
+2023-03,Education,21
+2023-03,Energy & Utilities,18
+2023-03,Financial Services,28
+2023-03,Government & Defense,23
+2023-03,Healthcare,30
+2023-03,Hospitality,10
+2023-03,Manufacturing,76
+2023-03,Other,5
+2023-03,Professional Services,88
+2023-03,Retail & E-Commerce,42
+2023-03,Technology,39
+2023-03,Transportation,26
+2023-03,Unknown,13
+2023-04,Agriculture and Food Production,15
+2023-04,Education,17
+2023-04,Energy & Utilities,7
+2023-04,Financial Services,18
+2023-04,Government & Defense,10
+2023-04,Healthcare,33
+2023-04,Hospitality,7
+2023-04,Manufacturing,74
+2023-04,Other,8
+2023-04,Professional Services,45
+2023-04,Retail & E-Commerce,31
+2023-04,Technology,33
+2023-04,Transportation,9
+2023-04,Unknown,2
+2023-05,Agriculture and Food Production,15
+2023-05,Education,30
+2023-05,Energy & Utilities,11
+2023-05,Financial Services,27
+2023-05,Government & Defense,14
+2023-05,Healthcare,37
+2023-05,Hospitality,7
+2023-05,Manufacturing,62
+2023-05,Other,5
+2023-05,Professional Services,74
+2023-05,Retail & E-Commerce,16
+2023-05,Technology,38
+2023-05,Transportation,8
+2023-06,Agriculture and Food Production,14
+2023-06,Education,35
+2023-06,Energy & Utilities,10
+2023-06,Financial Services,44
+2023-06,Government & Defense,13
+2023-06,Healthcare,40
+2023-06,Hospitality,13
+2023-06,Manufacturing,71
+2023-06,Other,7
+2023-06,Professional Services,72
+2023-06,Retail & E-Commerce,15
+2023-06,Technology,33
+2023-06,Transportation,22
+2023-06,Unknown,7
+2023-07,Agriculture and Food Production,28
+2023-07,Education,31
+2023-07,Energy & Utilities,37
+2023-07,Financial Services,63
+2023-07,Government & Defense,21
+2023-07,Healthcare,63
+2023-07,Hospitality,22
+2023-07,Manufacturing,128
+2023-07,Other,9
+2023-07,Professional Services,134
+2023-07,Retail & E-Commerce,68
+2023-07,Technology,65
+2023-07,Transportation,25
+2023-07,Unknown,15
+2023-08,Agriculture and Food Production,19
+2023-08,Education,32
+2023-08,Energy & Utilities,15
+2023-08,Financial Services,24
+2023-08,Government & Defense,19
+2023-08,Healthcare,27
+2023-08,Hospitality,12
+2023-08,Manufacturing,75
+2023-08,Other,7
+2023-08,Professional Services,80
+2023-08,Retail & E-Commerce,34
+2023-08,Technology,43
+2023-08,Transportation,14
+2023-08,Unknown,17
+2023-09,Agriculture and Food Production,29
+2023-09,Education,22
+2023-09,Energy & Utilities,14
+2023-09,Financial Services,26
+2023-09,Government & Defense,20
+2023-09,Healthcare,39
+2023-09,Hospitality,14
+2023-09,Manufacturing,86
+2023-09,Other,14
+2023-09,Professional Services,92
+2023-09,Retail & E-Commerce,51
+2023-09,Technology,50
+2023-09,Transportation,25
+2023-09,Unknown,15
+2023-10,Agriculture and Food Production,19
+2023-10,Education,24
+2023-10,Energy & Utilities,10
+2023-10,Financial Services,15
+2023-10,Government & Defense,21
+2023-10,Healthcare,32
+2023-10,Hospitality,13
+2023-10,Manufacturing,74
+2023-10,Other,13
+2023-10,Professional Services,75
+2023-10,Retail & E-Commerce,29
+2023-10,Technology,36
+2023-10,Transportation,17
+2023-10,Unknown,15
+2023-11,Agriculture and Food Production,29
+2023-11,Education,26
+2023-11,Energy & Utilities,10
+2023-11,Financial Services,26
+2023-11,Government & Defense,19
+2023-11,Healthcare,48
+2023-11,Hospitality,9
+2023-11,Manufacturing,109
+2023-11,Other,11
+2023-11,Professional Services,101
+2023-11,Retail & E-Commerce,49
+2023-11,Technology,25
+2023-11,Transportation,27
+2023-11,Unknown,14
+2023-12,Agriculture and Food Production,24
+2023-12,Education,29
+2023-12,Energy & Utilities,21
+2023-12,Financial Services,16
+2023-12,Government & Defense,26
+2023-12,Healthcare,41
+2023-12,Hospitality,15
+2023-12,Manufacturing,128
+2023-12,Other,12
+2023-12,Professional Services,97
+2023-12,Retail & E-Commerce,43
+2023-12,Technology,56
+2023-12,Transportation,13
+2023-12,Unknown,12
+2024-01,Agriculture and Food Production,12
+2024-01,Education,16
+2024-01,Energy & Utilities,9
+2024-01,Financial Services,14
+2024-01,Government & Defense,12
+2024-01,Healthcare,34
+2024-01,Hospitality,6
+2024-01,Manufacturing,42
+2024-01,Other,1
+2024-01,Professional Services,89
+2024-01,Retail & E-Commerce,3
+2024-01,Technology,30
+2024-01,Transportation,24
+2024-02,Agriculture and Food Production,24
+2024-02,Education,11
+2024-02,Energy & Utilities,11
+2024-02,Financial Services,14
+2024-02,Government & Defense,18
+2024-02,Healthcare,41
+2024-02,Hospitality,11
+2024-02,Manufacturing,54
+2024-02,Other,3
+2024-02,Professional Services,141
+2024-02,Retail & E-Commerce,3
+2024-02,Technology,46
+2024-02,Transportation,25
+2024-02,Unknown,5
+2024-03,Agriculture and Food Production,21
+2024-03,Education,12
+2024-03,Energy & Utilities,11
+2024-03,Financial Services,23
+2024-03,Government & Defense,13
+2024-03,Healthcare,49
+2024-03,Hospitality,12
+2024-03,Manufacturing,59
+2024-03,Other,1
+2024-03,Professional Services,121
+2024-03,Retail & E-Commerce,4
+2024-03,Technology,59
+2024-03,Transportation,23
+2024-03,Unknown,3
+2024-04,Agriculture and Food Production,27
+2024-04,Education,21
+2024-04,Energy & Utilities,19
+2024-04,Financial Services,35
+2024-04,Government & Defense,29
+2024-04,Healthcare,83
+2024-04,Hospitality,21
+2024-04,Manufacturing,85
+2024-04,Other,1
+2024-04,Professional Services,183
+2024-04,Retail & E-Commerce,7
+2024-04,Technology,90
+2024-04,Transportation,26
+2024-04,Unknown,4
+2024-05,Agriculture and Food Production,31
+2024-05,Education,30
+2024-05,Energy & Utilities,12
+2024-05,Financial Services,30
+2024-05,Government & Defense,32
+2024-05,Healthcare,58
+2024-05,Hospitality,12
+2024-05,Manufacturing,72
+2024-05,Other,3
+2024-05,Professional Services,184
+2024-05,Retail & E-Commerce,7
+2024-05,Technology,73
+2024-05,Transportation,39
+2024-05,Unknown,8
+2024-06,Agriculture and Food Production,15
+2024-06,Education,11
+2024-06,Energy & Utilities,15
+2024-06,Financial Services,19
+2024-06,Government & Defense,14
+2024-06,Healthcare,48
+2024-06,Hospitality,9
+2024-06,Manufacturing,39
+2024-06,Other,2
+2024-06,Professional Services,120
+2024-06,Retail & E-Commerce,10
+2024-06,Technology,77
+2024-06,Transportation,33
+2024-06,Unknown,5
+2024-07,Agriculture and Food Production,15
+2024-07,Education,22
+2024-07,Energy & Utilities,14
+2024-07,Financial Services,14
+2024-07,Government & Defense,21
+2024-07,Healthcare,57
+2024-07,Hospitality,13
+2024-07,Manufacturing,58
+2024-07,Other,4
+2024-07,Professional Services,122
+2024-07,Retail & E-Commerce,3
+2024-07,Technology,68
+2024-07,Transportation,12
+2024-07,Unknown,5
+2024-08,Agriculture and Food Production,25
+2024-08,Education,15
+2024-08,Energy & Utilities,13
+2024-08,Financial Services,26
+2024-08,Government & Defense,21
+2024-08,Healthcare,47
+2024-08,Hospitality,14
+2024-08,Manufacturing,56
+2024-08,Professional Services,163
+2024-08,Retail & E-Commerce,6
+2024-08,Technology,64
+2024-08,Transportation,27
+2024-08,Unknown,2
+2024-09,Agriculture and Food Production,25
+2024-09,Education,16
+2024-09,Energy & Utilities,8
+2024-09,Financial Services,22
+2024-09,Government & Defense,16
+2024-09,Healthcare,32
+2024-09,Hospitality,17
+2024-09,Manufacturing,61
+2024-09,Other,2
+2024-09,Professional Services,129
+2024-09,Retail & E-Commerce,2
+2024-09,Technology,49
+2024-09,Transportation,17
+2024-09,Unknown,1
+2024-10,Agriculture and Food Production,16
+2024-10,Education,22
+2024-10,Energy & Utilities,9
+2024-10,Financial Services,21
+2024-10,Government & Defense,23
+2024-10,Healthcare,60
+2024-10,Hospitality,19
+2024-10,Manufacturing,86
+2024-10,Other,2
+2024-10,Professional Services,169
+2024-10,Retail & E-Commerce,12
+2024-10,Technology,71
+2024-10,Transportation,29
+2024-10,Unknown,8
+2024-11,Agriculture and Food Production,33
+2024-11,Education,41
+2024-11,Energy & Utilities,28
+2024-11,Financial Services,34
+2024-11,Government & Defense,25
+2024-11,Healthcare,70
+2024-11,Hospitality,12
+2024-11,Manufacturing,105
+2024-11,Other,5
+2024-11,Professional Services,197
+2024-11,Retail & E-Commerce,12
+2024-11,Technology,82
+2024-11,Transportation,35
+2024-11,Unknown,17
+2024-12,Agriculture and Food Production,29
+2024-12,Education,33
+2024-12,Energy & Utilities,22
+2024-12,Financial Services,50
+2024-12,Government & Defense,30
+2024-12,Healthcare,59
+2024-12,Hospitality,16
+2024-12,Manufacturing,96
+2024-12,Other,5
+2024-12,Professional Services,156
+2024-12,Retail & E-Commerce,20
+2024-12,Technology,98
+2024-12,Transportation,51
+2024-12,Unknown,18
+2025-01,Agriculture and Food Production,33
+2025-01,Education,30
+2025-01,Energy & Utilities,17
+2025-01,Financial Services,27
+2025-01,Government & Defense,33
+2025-01,Healthcare,46
+2025-01,Hospitality,10
+2025-01,Manufacturing,102
+2025-01,Other,9
+2025-01,Professional Services,114
+2025-01,Retail & E-Commerce,53
+2025-01,Technology,91
+2025-01,Transportation,31
+2025-01,Unknown,18
+2025-02,Agriculture and Food Production,45
+2025-02,Education,47
+2025-02,Energy & Utilities,26
+2025-02,Financial Services,45
+2025-02,Government & Defense,26
+2025-02,Healthcare,59
+2025-02,Hospitality,20
+2025-02,Manufacturing,158
+2025-02,Other,15
+2025-02,Professional Services,123
+2025-02,Retail & E-Commerce,160
+2025-02,Technology,182
+2025-02,Transportation,79
+2025-02,Unknown,28
+2025-03,Agriculture and Food Production,27
+2025-03,Education,34
+2025-03,Energy & Utilities,9
+2025-03,Financial Services,43
+2025-03,Government & Defense,58
+2025-03,Healthcare,66
+2025-03,Hospitality,20
+2025-03,Manufacturing,143
+2025-03,Other,14
+2025-03,Professional Services,89
+2025-03,Retail & E-Commerce,58
+2025-03,Technology,146
+2025-03,Transportation,33
+2025-03,Unknown,13
+2025-04,Agriculture and Food Production,18
+2025-04,Education,16
+2025-04,Energy & Utilities,11
+2025-04,Financial Services,35
+2025-04,Government & Defense,30
+2025-04,Healthcare,36
+2025-04,Hospitality,19
+2025-04,Manufacturing,120
+2025-04,Other,12
+2025-04,Professional Services,76
+2025-04,Retail & E-Commerce,46
+2025-04,Technology,75
+2025-04,Transportation,29
+2025-04,Unknown,13
+2025-05,Agriculture and Food Production,12
+2025-05,Education,26
+2025-05,Energy & Utilities,18
+2025-05,Financial Services,67
+2025-05,Government & Defense,26
+2025-05,Healthcare,31
+2025-05,Hospitality,27
+2025-05,Manufacturing,118
+2025-05,Other,13
+2025-05,Professional Services,110
+2025-05,Retail & E-Commerce,47
+2025-05,Technology,72
+2025-05,Transportation,30
+2025-05,Unknown,14
+2025-06,Agriculture and Food Production,23
+2025-06,Education,21
+2025-06,Energy & Utilities,20
+2025-06,Financial Services,33
+2025-06,Government & Defense,27
+2025-06,Healthcare,48
+2025-06,Hospitality,17
+2025-06,Manufacturing,78
+2025-06,Other,12
+2025-06,Professional Services,67
+2025-06,Retail & E-Commerce,42
+2025-06,Technology,71
+2025-06,Transportation,26
+2025-06,Unknown,16
+2025-07,Agriculture and Food Production,23
+2025-07,Education,27
+2025-07,Energy & Utilities,12
+2025-07,Financial Services,27
+2025-07,Government & Defense,23
+2025-07,Healthcare,48
+2025-07,Hospitality,13
+2025-07,Manufacturing,103
+2025-07,Other,13
+2025-07,Professional Services,94
+2025-07,Retail & E-Commerce,33
+2025-07,Technology,90
+2025-07,Transportation,15
+2025-07,Unknown,26
+2025-08,Agriculture and Food Production,14
+2025-08,Education,28
+2025-08,Energy & Utilities,15
+2025-08,Financial Services,34
+2025-08,Government & Defense,12
+2025-08,Healthcare,44
+2025-08,Hospitality,16
+2025-08,Manufacturing,122
+2025-08,Other,7
+2025-08,Professional Services,91
+2025-08,Retail & E-Commerce,36
+2025-08,Technology,71
+2025-08,Transportation,20
+2025-08,Unknown,17
+2025-09,Agriculture and Food Production,19
+2025-09,Education,24
+2025-09,Energy & Utilities,21
+2025-09,Financial Services,63
+2025-09,Government & Defense,19
+2025-09,Healthcare,47
+2025-09,Hospitality,16
+2025-09,Manufacturing,113
+2025-09,Other,20
+2025-09,Professional Services,94
+2025-09,Retail & E-Commerce,37
+2025-09,Technology,92
+2025-09,Transportation,16
+2025-09,Unknown,17
+2025-10,Agriculture and Food Production,32
+2025-10,Education,31
+2025-10,Energy & Utilities,23
+2025-10,Financial Services,49
+2025-10,Government & Defense,26
+2025-10,Healthcare,79
+2025-10,Hospitality,28
+2025-10,Manufacturing,171
+2025-10,Other,14
+2025-10,Professional Services,124
+2025-10,Retail & E-Commerce,83
+2025-10,Technology,113
+2025-10,Transportation,43
+2025-10,Unknown,22
+2025-11,Agriculture and Food Production,21
+2025-11,Education,30
+2025-11,Energy & Utilities,29
+2025-11,Financial Services,40
+2025-11,Government & Defense,28
+2025-11,Healthcare,57
+2025-11,Hospitality,20
+2025-11,Manufacturing,158
+2025-11,Other,15
+2025-11,Professional Services,100
+2025-11,Retail & E-Commerce,58
+2025-11,Technology,100
+2025-11,Transportation,22
+2025-11,Unknown,39
+2025-12,Agriculture and Food Production,46
+2025-12,Education,30
+2025-12,Energy & Utilities,31
+2025-12,Financial Services,48
+2025-12,Government & Defense,36
+2025-12,Healthcare,78
+2025-12,Hospitality,28
+2025-12,Manufacturing,178
+2025-12,Other,23
+2025-12,Professional Services,154
+2025-12,Retail & E-Commerce,56
+2025-12,Technology,119
+2025-12,Transportation,33
+2025-12,Unknown,21
+2026-01,Agriculture and Food Production,24
+2026-01,Education,27
+2026-01,Energy & Utilities,28
+2026-01,Financial Services,42
+2026-01,Government & Defense,30
+2026-01,Healthcare,49
+2026-01,Hospitality,21
+2026-01,Manufacturing,139
+2026-01,Other,9
+2026-01,Professional Services,97
+2026-01,Retail & E-Commerce,59
+2026-01,Technology,116
+2026-01,Transportation,23
+2026-01,Unknown,36
+2026-02,Agriculture and Food Production,26
+2026-02,Education,24
+2026-02,Energy & Utilities,20
+2026-02,Financial Services,54
+2026-02,Government & Defense,26
+2026-02,Healthcare,69
+2026-02,Hospitality,26
+2026-02,Manufacturing,147
+2026-02,Other,17
+2026-02,Professional Services,127
+2026-02,Retail & E-Commerce,55
+2026-02,Technology,126
+2026-02,Transportation,38
+2026-02,Unknown,26
+2026-03,Agriculture and Food Production,36
+2026-03,Education,31
+2026-03,Energy & Utilities,30
+2026-03,Financial Services,52
+2026-03,Government & Defense,41
+2026-03,Healthcare,64
+2026-03,Hospitality,23
+2026-03,Manufacturing,168
+2026-03,Other,13
+2026-03,Professional Services,126
+2026-03,Retail & E-Commerce,60
+2026-03,Technology,126
+2026-03,Transportation,29
+2026-03,Unknown,42
+2026-04,Agriculture and Food Production,35
+2026-04,Education,23
+2026-04,Energy & Utilities,30
+2026-04,Financial Services,42
+2026-04,Government & Defense,32
+2026-04,Healthcare,79
+2026-04,Hospitality,20
+2026-04,Manufacturing,150
+2026-04,Other,16
+2026-04,Professional Services,188
+2026-04,Retail & E-Commerce,86
+2026-04,Technology,96
+2026-04,Transportation,37
+2026-04,Unknown,31
+2026-05,Agriculture and Food Production,39
+2026-05,Education,29
+2026-05,Energy & Utilities,10
+2026-05,Financial Services,36
+2026-05,Government & Defense,25
+2026-05,Healthcare,68
+2026-05,Hospitality,23
+2026-05,Manufacturing,130
+2026-05,Other,14
+2026-05,Professional Services,190
+2026-05,Retail & E-Commerce,62
+2026-05,Technology,86
+2026-05,Transportation,35
+2026-05,Unknown,39
+2026-06,Agriculture and Food Production,39
+2026-06,Education,25
+2026-06,Energy & Utilities,18
+2026-06,Financial Services,26
+2026-06,Government & Defense,27
+2026-06,Healthcare,53
+2026-06,Hospitality,21
+2026-06,Manufacturing,112
+2026-06,Other,19
+2026-06,Professional Services,139
+2026-06,Retail & E-Commerce,63
+2026-06,Technology,75
+2026-06,Transportation,26
+2026-06,Unknown,63
+2026-07,Agriculture and Food Production,37
+2026-07,Education,24
+2026-07,Energy & Utilities,35
+2026-07,Financial Services,50
+2026-07,Government & Defense,37
+2026-07,Healthcare,84
+2026-07,Hospitality,27
+2026-07,Manufacturing,152
+2026-07,Other,46
+2026-07,Professional Services,174
+2026-07,Retail & E-Commerce,70
+2026-07,Technology,126
+2026-07,Transportation,37
+2026-07,Unknown,53
+2026-08,Agriculture and Food Production,39
+2026-08,Education,27
+2026-08,Energy & Utilities,32
+2026-08,Financial Services,66
+2026-08,Government & Defense,25
+2026-08,Healthcare,117
+2026-08,Hospitality,30
+2026-08,Manufacturing,184
+2026-08,Other,118
+2026-08,Professional Services,136
+2026-08,Retail & E-Commerce,76
+2026-08,Technology,154
+2026-08,Transportation,43
+2026-08,Unknown,111
+2026-09,Agriculture and Food Production,25
+2026-09,Education,33
+2026-09,Energy & Utilities,24
+2026-09,Financial Services,40
+2026-09,Government & Defense,28
+2026-09,Healthcare,82
+2026-09,Hospitality,20
+2026-09,Manufacturing,147
+2026-09,Other,79
+2026-09,Professional Services,99
+2026-09,Retail & E-Commerce,54
+2026-09,Technology,95
+2026-09,Transportation,30
+2026-09,Unknown,92
+2026-10,Agriculture and Food Production,8
+2026-10,Education,13
+2026-10,Energy & Utilities,5
+2026-10,Financial Services,9
+2026-10,Government & Defense,3
+2026-10,Healthcare,28
+2026-10,Hospitality,3
+2026-10,Manufacturing,39
+2026-10,Other,22
+2026-10,Professional Services,21
+2026-10,Retail & E-Commerce,7
+2026-10,Technology,24
+2026-10,Transportation,13
+2026-10,Unknown,14
