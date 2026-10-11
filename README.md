@@ -5,6 +5,12 @@
 Ransomware is rising in volume and earning less per attack. Claimed victims rose about 66% from 2023 to 2025, while on-chain payments fell by a third and the share of victims who pay dropped to a record-low 23%. Professional services, manufacturing and technology are hit hardest. The United States has by far the most victims, but adjusted for economy size, mid-sized economies such as Thailand, Malaysia and Argentina are hit harder. A handful of groups, led by Qilin, account for most of the activity.
 
 
+Live dashboard: https://fosu-ransomware-economics.streamlit.app/
+
+
+![Dashboard screenshot](docs/screenshot.png)
+
+
 
 ## Findings
 
