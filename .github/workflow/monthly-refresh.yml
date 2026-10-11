@@ -1,0 +1,41 @@
+name: Monthly data refresh
+
+on:
+  schedule:
+    - cron: "17 6 2 * *"   # 06:17 UTC on the 2nd of every month
+  workflow_dispatch:        # adds a "Run workflow" button for manual runs
+
+permissions:
+  contents: write           # lets the workflow push commits
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repo
+        uses: actions/checkout@v7
+
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python3 --version: "3.12"
+          cache: pip
+
+      - name: Install packages
+        run: pip install -r requirements.txt
+
+      - name: Download new data
+        run: python src/collect.py
+        # env:
+        #   RANSOMWARE_LIVE_API_KEY: ${{ secrets.RANSOMWARE_LIVE_API_KEY }}
+
+      - name: Clean and export summary tables
+        run: python src/clean.py
+
+      - name: Commit updated tables
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/processed/*.csv
+          git diff --staged --quiet || git commit -m "Monthly data refresh $(date -u +%Y-%m-%d)"
+          git push
