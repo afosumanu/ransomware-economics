@@ -8,7 +8,7 @@ Ransomware is rising in volume and earning less per attack. Claimed victims rose
 Live dashboard: https://fosu-ransomware-economics.streamlit.app/
 
 
-![Dashboard screenshot](docs/Pasted 2026-10-16 at 19.36.09.png)
+![Dashboard screenshot](docs/screenshot1.png)
 
 
 
