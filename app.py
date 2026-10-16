@@ -18,7 +18,32 @@ def load():
     )
 
 
+@st.cache_data
+def add_iso3(df):
+    """Make sure the country table has a three-letter code column for the map.
+
+    Uses countryiso3code if it is already there (e.g. from the World Bank GDP
+    merge). Otherwise converts the country column (name or 2-letter code) with
+    pycountry. Rows it can't match, like "Unknown", get no code and drop off
+    the map.
+    """
+    df = df.copy()
+    if "countryiso3code" in df.columns:
+        return df
+    import pycountry
+
+    def to_iso3(value):
+        try:
+            return pycountry.countries.lookup(str(value)).alpha_3
+        except LookupError:
+            return None
+
+    df["countryiso3code"] = df["country"].apply(to_iso3)
+    return df
+
+
 sector, group, country, pay_yr, pay_q = load()
+country = add_iso3(country)
 
 st.title("Ransomware Economics Dashboard")
 st.caption("Who gets hit, who pays, and is it rising? Victim counts are attacker "
@@ -63,13 +88,54 @@ with sectors:
                             title="Selected sectors over time"))
 
 with countries:
-    st.write("Last 12 months. 'Per $100bn GDP' adjusts for economy size "
-             "(countries with 20+ victims only).")
+    st.write("Last 12 months. 'Per $100bn GDP' adjusts for economy size. "
+             "Small victim counts make the per-GDP rate noisy, so use the "
+             "minimum-victims filter to hide countries with too few cases.")
+
+    # ---- Map filters ----
+    f1, f2 = st.columns(2)
+    measure = f1.radio(
+        "Color the map by",
+        ["Victims (raw count)", "Victims per $100bn GDP"],
+        horizontal=True,
+    )
+    min_victims = f2.slider(
+        "Minimum victims to include", min_value=1, max_value=100, value=20,
+        help="Countries below this count are left off the map and the per-GDP ranking.",
+    )
+
+    metric = "victims_12m" if measure.startswith("Victims (raw") else "victims_per_100bn_gdp"
+    mapped = country[
+        (country["victims_12m"] >= min_victims)
+        & country["countryiso3code"].notna()
+    ].dropna(subset=[metric])
+
+    # ---- World map ----
+    fig_map = px.choropleth(
+        mapped,
+        locations="countryiso3code",
+        locationmode="ISO-3",
+        color=metric,
+        hover_name="country",
+        hover_data={"countryiso3code": False,
+                    "victims_12m": ":,",
+                    "victims_per_100bn_gdp": ":.2f"},
+        labels={"victims_12m": "Victims (12m)",
+                "victims_per_100bn_gdp": "Per $100bn GDP"},
+        color_continuous_scale="Reds",
+        title=f"{measure} by country (countries with {min_victims}+ victims)",
+    )
+    fig_map.update_geos(showframe=False, showcoastlines=False,
+                        projection_type="natural earth")
+    fig_map.update_layout(margin=dict(l=0, r=0, t=40, b=0), height=500)
+    st.plotly_chart(fig_map, use_container_width=True)
+
+    # ---- Top-10 bars (now follow the same minimum-victims filter) ----
     left, right = st.columns(2)
-    raw = country.nlargest(10, "victims_12m")
+    raw = country[country["victims_12m"] >= min_victims].nlargest(10, "victims_12m")
     left.plotly_chart(px.bar(raw, x="victims_12m", y="country", orientation="h",
                              title="Most victims"))
-    sized = country[country["victims_12m"] >= 20].nlargest(10, "victims_per_100bn_gdp")
+    sized = country[country["victims_12m"] >= min_victims].nlargest(10, "victims_per_100bn_gdp")
     right.plotly_chart(px.bar(sized, x="victims_per_100bn_gdp", y="country",
                               orientation="h", title="Most victims per $100bn GDP"))
 
@@ -151,4 +217,3 @@ st.divider()
 st.caption("Sources: Ransomware.live (victim claims), Chainalysis (on-chain payments), "
            "Coveware (payment rates), World Bank (GDP). Public data only. "
            "Built by Augustine Fosu Manu.")
-
