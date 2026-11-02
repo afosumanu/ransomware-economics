@@ -133,7 +133,7 @@ month,sector,victims
 2023-10,Hospitality,13
 2023-10,Manufacturing,74
 2023-10,Other,13
-2023-10,Professional Services,75
+2023-10,Professional Services,74
 2023-10,Retail & E-Commerce,29
 2023-10,Technology,36
 2023-10,Transportation,17
@@ -190,10 +190,10 @@ month,sector,victims
 2024-02,Other,3
 2024-02,Professional Services,141
 2024-02,Retail & E-Commerce,3
-2024-02,Technology,46
+2024-02,Technology,45
 2024-02,Transportation,25
 2024-02,Unknown,5
-2024-03,Agriculture and Food Production,21
+2024-03,Agriculture and Food Production,20
 2024-03,Education,12
 2024-03,Energy & Utilities,11
 2024-03,Financial Services,23
@@ -254,7 +254,7 @@ month,sector,victims
 2024-07,Energy & Utilities,14
 2024-07,Financial Services,14
 2024-07,Government & Defense,21
-2024-07,Healthcare,57
+2024-07,Healthcare,56
 2024-07,Hospitality,13
 2024-07,Manufacturing,58
 2024-07,Other,4
@@ -268,8 +268,8 @@ month,sector,victims
 2024-08,Energy & Utilities,13
 2024-08,Financial Services,26
 2024-08,Government & Defense,21
-2024-08,Healthcare,47
-2024-08,Hospitality,14
+2024-08,Healthcare,46
+2024-08,Hospitality,13
 2024-08,Manufacturing,56
 2024-08,Professional Services,163
 2024-08,Retail & E-Commerce,6
@@ -277,7 +277,7 @@ month,sector,victims
 2024-08,Transportation,27
 2024-08,Unknown,2
 2024-09,Agriculture and Food Production,25
-2024-09,Education,16
+2024-09,Education,15
 2024-09,Energy & Utilities,8
 2024-09,Financial Services,22
 2024-09,Government & Defense,16
@@ -285,7 +285,7 @@ month,sector,victims
 2024-09,Hospitality,17
 2024-09,Manufacturing,61
 2024-09,Other,2
-2024-09,Professional Services,129
+2024-09,Professional Services,128
 2024-09,Retail & E-Commerce,2
 2024-09,Technology,49
 2024-09,Transportation,17
@@ -350,7 +350,7 @@ month,sector,victims
 2025-02,Education,47
 2025-02,Energy & Utilities,26
 2025-02,Financial Services,45
-2025-02,Government & Defense,26
+2025-02,Government & Defense,25
 2025-02,Healthcare,59
 2025-02,Hospitality,20
 2025-02,Manufacturing,158
@@ -379,13 +379,13 @@ month,sector,victims
 2025-04,Energy & Utilities,11
 2025-04,Financial Services,35
 2025-04,Government & Defense,30
-2025-04,Healthcare,36
+2025-04,Healthcare,35
 2025-04,Hospitality,19
 2025-04,Manufacturing,120
 2025-04,Other,12
 2025-04,Professional Services,76
 2025-04,Retail & E-Commerce,46
-2025-04,Technology,75
+2025-04,Technology,74
 2025-04,Transportation,29
 2025-04,Unknown,13
 2025-05,Agriculture and Food Production,12
@@ -400,7 +400,7 @@ month,sector,victims
 2025-05,Professional Services,110
 2025-05,Retail & E-Commerce,47
 2025-05,Technology,72
-2025-05,Transportation,30
+2025-05,Transportation,29
 2025-05,Unknown,14
 2025-06,Agriculture and Food Production,23
 2025-06,Education,21
@@ -423,59 +423,59 @@ month,sector,victims
 2025-07,Government & Defense,23
 2025-07,Healthcare,48
 2025-07,Hospitality,13
-2025-07,Manufacturing,103
+2025-07,Manufacturing,102
 2025-07,Other,13
 2025-07,Professional Services,94
 2025-07,Retail & E-Commerce,33
 2025-07,Technology,90
 2025-07,Transportation,15
 2025-07,Unknown,26
-2025-08,Agriculture and Food Production,14
+2025-08,Agriculture and Food Production,12
 2025-08,Education,28
 2025-08,Energy & Utilities,15
-2025-08,Financial Services,34
+2025-08,Financial Services,33
 2025-08,Government & Defense,12
 2025-08,Healthcare,44
-2025-08,Hospitality,16
-2025-08,Manufacturing,122
+2025-08,Hospitality,15
+2025-08,Manufacturing,118
 2025-08,Other,7
-2025-08,Professional Services,91
+2025-08,Professional Services,90
 2025-08,Retail & E-Commerce,36
-2025-08,Technology,71
-2025-08,Transportation,20
+2025-08,Technology,68
+2025-08,Transportation,19
 2025-08,Unknown,17
 2025-09,Agriculture and Food Production,19
 2025-09,Education,24
-2025-09,Energy & Utilities,21
-2025-09,Financial Services,63
-2025-09,Government & Defense,19
-2025-09,Healthcare,47
+2025-09,Energy & Utilities,20
+2025-09,Financial Services,62
+2025-09,Government & Defense,15
+2025-09,Healthcare,46
 2025-09,Hospitality,16
-2025-09,Manufacturing,113
+2025-09,Manufacturing,112
 2025-09,Other,20
-2025-09,Professional Services,94
-2025-09,Retail & E-Commerce,37
-2025-09,Technology,92
-2025-09,Transportation,16
+2025-09,Professional Services,93
+2025-09,Retail & E-Commerce,36
+2025-09,Technology,90
+2025-09,Transportation,15
 2025-09,Unknown,17
-2025-10,Agriculture and Food Production,32
-2025-10,Education,31
+2025-10,Agriculture and Food Production,31
+2025-10,Education,28
 2025-10,Energy & Utilities,23
-2025-10,Financial Services,49
-2025-10,Government & Defense,26
+2025-10,Financial Services,47
+2025-10,Government & Defense,25
 2025-10,Healthcare,79
-2025-10,Hospitality,28
-2025-10,Manufacturing,171
+2025-10,Hospitality,27
+2025-10,Manufacturing,167
 2025-10,Other,14
-2025-10,Professional Services,124
+2025-10,Professional Services,119
 2025-10,Retail & E-Commerce,83
-2025-10,Technology,113
-2025-10,Transportation,43
+2025-10,Technology,110
+2025-10,Transportation,42
 2025-10,Unknown,22
 2025-11,Agriculture and Food Production,21
 2025-11,Education,30
 2025-11,Energy & Utilities,29
-2025-11,Financial Services,40
+2025-11,Financial Services,39
 2025-11,Government & Defense,28
 2025-11,Healthcare,57
 2025-11,Hospitality,20
@@ -493,9 +493,9 @@ month,sector,victims
 2025-12,Government & Defense,36
 2025-12,Healthcare,78
 2025-12,Hospitality,28
-2025-12,Manufacturing,178
-2025-12,Other,23
-2025-12,Professional Services,154
+2025-12,Manufacturing,177
+2025-12,Other,22
+2025-12,Professional Services,153
 2025-12,Retail & E-Commerce,56
 2025-12,Technology,119
 2025-12,Transportation,33
@@ -509,28 +509,28 @@ month,sector,victims
 2026-01,Hospitality,21
 2026-01,Manufacturing,139
 2026-01,Other,9
-2026-01,Professional Services,97
+2026-01,Professional Services,96
 2026-01,Retail & E-Commerce,59
 2026-01,Technology,116
 2026-01,Transportation,23
 2026-01,Unknown,36
 2026-02,Agriculture and Food Production,26
-2026-02,Education,24
-2026-02,Energy & Utilities,20
+2026-02,Education,23
+2026-02,Energy & Utilities,18
 2026-02,Financial Services,54
 2026-02,Government & Defense,26
 2026-02,Healthcare,69
-2026-02,Hospitality,26
+2026-02,Hospitality,24
 2026-02,Manufacturing,147
 2026-02,Other,17
 2026-02,Professional Services,127
-2026-02,Retail & E-Commerce,55
-2026-02,Technology,126
+2026-02,Retail & E-Commerce,54
+2026-02,Technology,123
 2026-02,Transportation,38
 2026-02,Unknown,26
 2026-03,Agriculture and Food Production,36
 2026-03,Education,31
-2026-03,Energy & Utilities,30
+2026-03,Energy & Utilities,29
 2026-03,Financial Services,52
 2026-03,Government & Defense,41
 2026-03,Healthcare,64
@@ -570,7 +570,7 @@ month,sector,victims
 2026-05,Technology,86
 2026-05,Transportation,35
 2026-05,Unknown,39
-2026-06,Agriculture and Food Production,39
+2026-06,Agriculture and Food Production,38
 2026-06,Education,25
 2026-06,Energy & Utilities,18
 2026-06,Financial Services,26
@@ -599,14 +599,14 @@ month,sector,victims
 2026-07,Transportation,37
 2026-07,Unknown,53
 2026-08,Agriculture and Food Production,38
-2026-08,Education,27
+2026-08,Education,26
 2026-08,Energy & Utilities,31
 2026-08,Financial Services,66
 2026-08,Government & Defense,25
-2026-08,Healthcare,116
+2026-08,Healthcare,115
 2026-08,Hospitality,27
-2026-08,Manufacturing,182
-2026-08,Other,116
+2026-08,Manufacturing,181
+2026-08,Other,115
 2026-08,Professional Services,136
 2026-08,Retail & E-Commerce,73
 2026-08,Technology,154
@@ -615,8 +615,8 @@ month,sector,victims
 2026-09,Agriculture and Food Production,25
 2026-09,Education,33
 2026-09,Energy & Utilities,24
-2026-09,Financial Services,40
-2026-09,Government & Defense,28
+2026-09,Financial Services,39
+2026-09,Government & Defense,27
 2026-09,Healthcare,82
 2026-09,Hospitality,20
 2026-09,Manufacturing,147
@@ -626,17 +626,25 @@ month,sector,victims
 2026-09,Technology,94
 2026-09,Transportation,30
 2026-09,Unknown,92
-2026-10,Agriculture and Food Production,11
-2026-10,Education,25
-2026-10,Energy & Utilities,11
-2026-10,Financial Services,10
-2026-10,Government & Defense,8
-2026-10,Healthcare,46
-2026-10,Hospitality,12
-2026-10,Manufacturing,60
-2026-10,Other,40
-2026-10,Professional Services,32
-2026-10,Retail & E-Commerce,12
-2026-10,Technology,31
-2026-10,Transportation,15
-2026-10,Unknown,25
+2026-10,Agriculture and Food Production,27
+2026-10,Education,60
+2026-10,Energy & Utilities,40
+2026-10,Financial Services,44
+2026-10,Government & Defense,30
+2026-10,Healthcare,123
+2026-10,Hospitality,24
+2026-10,Manufacturing,163
+2026-10,Other,93
+2026-10,Professional Services,130
+2026-10,Retail & E-Commerce,57
+2026-10,Technology,120
+2026-10,Transportation,79
+2026-10,Unknown,166
+2026-11,Healthcare,1
+2026-11,Manufacturing,1
+2026-11,Other,2
+2026-11,Professional Services,4
+2026-11,Retail & E-Commerce,2
+2026-11,Technology,3
+2026-11,Transportation,1
+2026-11,Unknown,2

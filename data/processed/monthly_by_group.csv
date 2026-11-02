@@ -269,7 +269,7 @@ month,group,victims
 2023-10,monti,8
 2023-10,noescape,37
 2023-10,play,42
-2023-10,qilin,5
+2023-10,qilin,4
 2023-10,ragnarlocker,5
 2023-10,ransomed,25
 2023-10,ransomexx,1
@@ -415,7 +415,7 @@ month,group,victims
 2024-02,mogilevich,5
 2024-02,monti,2
 2024-02,play,26
-2024-02,qilin,12
+2024-02,qilin,11
 2024-02,ransomhouse,7
 2024-02,ransomhub,4
 2024-02,rhysida,4
@@ -450,7 +450,7 @@ month,group,victims
 2024-03,meow,2
 2024-03,mogilevich,3
 2024-03,play,50
-2024-03,qilin,11
+2024-03,qilin,10
 2024-03,ransomhub,19
 2024-03,raworld,21
 2024-03,redransomware,12
@@ -629,7 +629,7 @@ month,group,victims
 2024-07,metaencryptor,1
 2024-07,monti,3
 2024-07,play,21
-2024-07,qilin,10
+2024-07,qilin,9
 2024-07,ransomcortex,4
 2024-07,ransomexx,3
 2024-07,ransomhouse,11
@@ -673,7 +673,7 @@ month,group,victims
 2024-08,metaencryptor,3
 2024-08,monti,17
 2024-08,play,29
-2024-08,qilin,19
+2024-08,qilin,17
 2024-08,ransomexx,2
 2024-08,ransomhouse,2
 2024-08,ransomhub,74
@@ -714,7 +714,7 @@ month,group,victims
 2024-09,nitrogen,6
 2024-09,orca,2
 2024-09,play,43
-2024-09,qilin,23
+2024-09,qilin,21
 2024-09,ransomexx,1
 2024-09,ransomhouse,1
 2024-09,ransomhub,74
@@ -950,7 +950,7 @@ month,group,victims
 2025-02,monti,1
 2025-02,morpheus,2
 2025-02,play,47
-2025-02,qilin,43
+2025-02,qilin,42
 2025-02,ransomhouse,3
 2025-02,ransomhub,102
 2025-02,rhysida,8
@@ -1044,7 +1044,7 @@ month,group,victims
 2025-04,nitrogen,4
 2025-04,nova,16
 2025-04,play,51
-2025-04,qilin,75
+2025-04,qilin,73
 2025-04,ralord,10
 2025-04,ransomhouse,4
 2025-04,rhysida,9
@@ -1097,7 +1097,7 @@ month,group,victims
 2025-05,nova,5
 2025-05,orca,1
 2025-05,play,44
-2025-05,qilin,57
+2025-05,qilin,56
 2025-05,ransomhouse,5
 2025-05,rhysida,9
 2025-05,safepay,72
@@ -1195,7 +1195,7 @@ month,group,victims
 2025-07,nova,10
 2025-07,payoutsking,21
 2025-07,play,25
-2025-07,qilin,64
+2025-07,qilin,63
 2025-07,rebornvc,3
 2025-07,rhysida,3
 2025-07,safepay,42
@@ -1243,7 +1243,7 @@ month,group,victims
 2025-08,payoutsking,3
 2025-08,pear,18
 2025-08,play,26
-2025-08,qilin,87
+2025-08,qilin,74
 2025-08,ransomhouse,3
 2025-08,rhysida,6
 2025-08,runsomewares,1
@@ -1298,7 +1298,7 @@ month,group,victims
 2025-09,payoutsking,2
 2025-09,pear,18
 2025-09,play,53
-2025-09,qilin,84
+2025-09,qilin,71
 2025-09,radar,8
 2025-09,ransomhouse,1
 2025-09,rhysida,4
@@ -1352,7 +1352,7 @@ month,group,victims
 2025-10,payoutsking,3
 2025-10,pear,7
 2025-10,play,26
-2025-10,qilin,210
+2025-10,qilin,189
 2025-10,radar,13
 2025-10,radiant,8
 2025-10,ransomhouse,9
@@ -1406,7 +1406,7 @@ month,group,victims
 2025-11,payoutsking,14
 2025-11,pear,5
 2025-11,play,27
-2025-11,qilin,107
+2025-11,qilin,106
 2025-11,radar,1
 2025-11,ransomhouse,14
 2025-11,rhysida,11
@@ -1463,7 +1463,7 @@ month,group,victims
 2025-12,osiris,1
 2025-12,pear,3
 2025-12,play,22
-2025-12,qilin,178
+2025-12,qilin,175
 2025-12,radar,1
 2025-12,ransomhouse,10
 2025-12,rhysida,11
@@ -1496,7 +1496,7 @@ month,group,victims
 2026-01,everest,21
 2026-01,genesis,11
 2026-01,handala,8
-2026-01,incransom,45
+2026-01,incransom,44
 2026-01,interlock,5
 2026-01,kazu,2
 2026-01,killsec,2
@@ -1563,7 +1563,7 @@ month,group,victims
 2026-02,payload,2
 2026-02,pear,6
 2026-02,play,42
-2026-02,qilin,114
+2026-02,qilin,105
 2026-02,ransomhouse,5
 2026-02,reynolds,1
 2026-02,rhysida,6
@@ -1611,7 +1611,7 @@ month,group,victims
 2026-03,payload,21
 2026-03,pear,6
 2026-03,play,46
-2026-03,qilin,140
+2026-03,qilin,139
 2026-03,ransomhouse,2
 2026-03,rhysida,1
 2026-03,safepay,8
@@ -1791,7 +1791,7 @@ month,group,victims
 2026-06,pear,11
 2026-06,play,16
 2026-06,prinzeugen,3
-2026-06,qilin,78
+2026-06,qilin,77
 2026-06,ransomexx,1
 2026-06,ransomhouse,5
 2026-06,redact,2
@@ -1924,7 +1924,7 @@ month,group,victims
 2026-08,lockbit5,31
 2026-08,lynx,3
 2026-08,m3rx,1
-2026-08,majinahanashi,3
+2026-08,majinahanashi,2
 2026-08,medusalocker,10
 2026-08,metaencryptor,7
 2026-08,moneymessage,1
@@ -1937,7 +1937,7 @@ month,group,victims
 2026-08,payoutsking,3
 2026-08,pear,9
 2026-08,play,21
-2026-08,qilin,164
+2026-08,qilin,161
 2026-08,ransomhouse,6
 2026-08,rhysida,7
 2026-08,safepay,12
@@ -1999,7 +1999,7 @@ month,group,victims
 2026-09,kazu,2
 2026-09,killsec,1
 2026-09,krybit,34
-2026-09,lamashtu,10
+2026-09,lamashtu,9
 2026-09,lockbit5,19
 2026-09,m3rx,7
 2026-09,medusalocker,13
@@ -2013,7 +2013,7 @@ month,group,victims
 2026-09,payoutsking,2
 2026-09,pear,8
 2026-09,play,14
-2026-09,qilin,74
+2026-09,qilin,73
 2026-09,ransomhouse,4
 2026-09,rhysida,12
 2026-09,safepay,32
@@ -2036,61 +2036,92 @@ month,group,victims
 2026-09,vexy ransomware,18
 2026-09,wallstreet,16
 2026-09,zawoo,6
-2026-10,akira,12
-2026-10,anubis,2
+2026-10,0x00,1
+2026-10,akira,35
+2026-10,anubis,5
 2026-10,arcusmedia,3
-2026-10,auditteam,3
-2026-10,aurora,3
-2026-10,barracuda,2
+2026-10,auditteam,16
+2026-10,aurora,17
+2026-10,barracuda,3
 2026-10,black x,3
-2026-10,booba project,7
-2026-10,bravox,1
-2026-10,byod,7
-2026-10,chaos,2
+2026-10,blacknevas,1
+2026-10,booba project,30
+2026-10,braincipher,9
+2026-10,bravox,5
+2026-10,byod,10
+2026-10,chaos,3
+2026-10,cloak,2
+2026-10,clop,1
 2026-10,cry0,1
-2026-10,deadlock,5
-2026-10,direwolf,1
-2026-10,doommageddon,2
-2026-10,dragonforce,4
-2026-10,eclipse,6
-2026-10,emperador,5
+2026-10,crypto24,2
+2026-10,dark project,6
+2026-10,deadlock,8
+2026-10,direwolf,3
+2026-10,doommageddon,5
+2026-10,dragonforce,10
+2026-10,eclipse,9
+2026-10,emperador,27
 2026-10,endzone,1
-2026-10,everest,5
+2026-10,everest,25
+2026-10,everstake,5
 2026-10,exitium,1
-2026-10,genesis,4
-2026-10,global secret group,1
-2026-10,incransom,16
+2026-10,falcon,3
+2026-10,fulcrumsec,2
+2026-10,genesis,14
+2026-10,global secret group,6
+2026-10,helix,9
+2026-10,hyflock,11
+2026-10,iah6477,8
+2026-10,incransom,28
 2026-10,insomnia,1
-2026-10,interlock,4
-2026-10,kairos,1
-2026-10,krybit,9
-2026-10,lamashtu,4
-2026-10,lockbit5,4
-2026-10,majinahanashi,18
+2026-10,interlock,11
+2026-10,kairos,2
+2026-10,krybit,15
+2026-10,lamashtu,11
+2026-10,lockbit5,22
+2026-10,majinahanashi,28
 2026-10,medusalocker,2
+2026-10,metaencryptor,2
+2026-10,mimori,2
 2026-10,morpheus,1
-2026-10,n0n,4
+2026-10,n0n,149
 2026-10,netrunner,4
-2026-10,nightspire,24
-2026-10,panzer,6
-2026-10,payload,1
-2026-10,payoutsking,3
-2026-10,play,2
-2026-10,qilin,33
-2026-10,ransomhouse,3
-2026-10,redact,2
-2026-10,rhysida,7
+2026-10,nightspire,34
+2026-10,nitrogen,1
+2026-10,orova,9
+2026-10,panzer,11
+2026-10,payload,11
+2026-10,payoutsking,6
+2026-10,pear,7
+2026-10,play,18
+2026-10,qilin,129
+2026-10,ransomhouse,5
+2026-10,redact,6
+2026-10,rhysida,19
 2026-10,runsomewares,1
-2026-10,safepay,12
-2026-10,scarlettgroup,1
-2026-10,settra,8
-2026-10,silentransomgroup,8
+2026-10,safepay,22
+2026-10,sarcoma,3
+2026-10,scarlettgroup,9
+2026-10,settra,20
+2026-10,shiba,4
+2026-10,silentransomgroup,30
+2026-10,spacebears,3
 2026-10,spirals,1
-2026-10,storm,6
+2026-10,storm,11
 2026-10,termite,2
-2026-10,thegentlemen,47
+2026-10,the seven deadly sins,7
+2026-10,thegentlemen,143
 2026-10,threeam,1
+2026-10,ulose,2
 2026-10,umbra,10
-2026-10,vexy ransomware,1
+2026-10,vexy ransomware,7
 2026-10,vypr,7
-2026-10,wallstreet,3
+2026-10,wallstreet,22
+2026-10,whitearmor,17
+2026-11,barracuda,1
+2026-11,direwolf,1
+2026-11,hyflock,1
+2026-11,lockbit5,1
+2026-11,qilin,10
+2026-11,shiba,1
+2026-11,whitearmor,1
